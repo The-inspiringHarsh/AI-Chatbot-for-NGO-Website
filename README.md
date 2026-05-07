@@ -60,18 +60,7 @@ AI-Chatbot-for-NGO-Website/
 
 ## Home Page
 
-Add your screenshot inside:
-
-```bash
-screenshots/home.png
-```
-
-Then replace this text with:
-
-```md
 ![Home Page](screenshots/home.png)
-```
-
 ---
 
 # ⚙️ Installation
