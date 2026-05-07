@@ -87,6 +87,62 @@ export const foundationKnowledge: KnowledgeItem[] = [
     content:
       "The assistant can respond in English, Hindi, and Tamil. Users may ask questions in any supported language and can switch language from the chat interface.",
     tags: ["faq", "language", "hindi", "tamil", "english"]
+  },
+  {
+    id: "faq-volunteer-registration",
+    type: "faq",
+    title: "FAQ: How do I register as a volunteer?",
+    content:
+      "To register as a volunteer, share your name, contact details, location, skills, preferred project, and weekly availability with the foundation team. The team can then guide you toward suitable activities such as teaching, mentoring, content support, drives, or event assistance.",
+    tags: ["faq", "volunteer", "registration", "join", "availability"]
+  },
+  {
+    id: "faq-donation-process",
+    type: "faq",
+    title: "FAQ: How can I donate safely?",
+    content:
+      "Before donating money or materials, contact the official foundation team and confirm the current requirements. Donors should use only verified payment details or approved collection points and may request an acknowledgement or receipt after contributing.",
+    tags: ["faq", "donation", "donate", "safe", "receipt"]
+  },
+  {
+    id: "faq-internship-application",
+    type: "faq",
+    title: "FAQ: How do I apply for an internship?",
+    content:
+      "Internship applicants should send their resume, area of interest, relevant portfolio or work samples if available, preferred duration, and expected weekly availability. Common areas include development, content writing, design, social media, research, fundraising, and community outreach.",
+    tags: ["faq", "internship", "apply", "resume", "portfolio"]
+  },
+  {
+    id: "faq-project-selection",
+    type: "faq",
+    title: "FAQ: Which project should I join?",
+    content:
+      "People interested in teaching, tutoring, reading, or digital learning can explore Project Shiksha. People interested in mentoring, awareness sessions, leadership, emotional wellbeing, workshops, or youth discussions can explore Project Manthan.",
+    tags: ["faq", "project", "shiksha", "manthan", "join"]
+  },
+  {
+    id: "faq-time-commitment",
+    type: "faq",
+    title: "FAQ: How much time do volunteers need to give?",
+    content:
+      "Volunteer time commitments can be flexible and depend on the activity. Some people may help for a few hours during events or drives, while regular mentors or interns may commit weekly hours for a defined period after discussing availability with the team.",
+    tags: ["faq", "time", "availability", "volunteer", "commitment"]
+  },
+  {
+    id: "faq-remote-support",
+    type: "faq",
+    title: "FAQ: Can I support remotely?",
+    content:
+      "Remote support may be possible for tasks such as content writing, poster design, social media support, documentation, research, digital mentoring, and technical work. Field-based activities, events, and donation drives may require local presence.",
+    tags: ["faq", "remote", "online", "support", "volunteer"]
+  },
+  {
+    id: "faq-partnerships",
+    type: "faq",
+    title: "FAQ: Can schools, colleges, or companies partner with the foundation?",
+    content:
+      "Schools, colleges, companies, and community groups can discuss partnerships for workshops, donation drives, volunteering programs, awareness sessions, internships, or project support. Interested organizations should share their goals, location, audience, and proposed timeline.",
+    tags: ["faq", "partnership", "school", "college", "company"]
   }
 ];
 
